@@ -1,0 +1,12 @@
+教程中命名celery设置存放地点为celery.py
+我觉得不妥
+因为celery.py中有
+from celery import Celery
+celery.py和包名重名可能造成无法导入celery包
+
+在linux上把celery.py改成celerys.py
+同时吧tasks.py中的
+from .celery import app
+改成from .celerys import app
+
+运行发现出问题了,看来是不能改的

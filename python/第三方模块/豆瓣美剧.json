@@ -1,0 +1,748 @@
+{
+  "count": 18,
+  "start": 0,
+  "subject_collection_items": [
+    {
+      "info": "大卫·芬奇/乔纳森·格罗夫/霍特·麦克卡兰尼/安娜·托芙/剧情/犯罪/惊悚/2017-10-13(美国)",
+      "original_price": null,
+      "release_date": "10.13",
+      "rating": {
+        "count": 9044,
+        "max": 10,
+        "value": 9
+      },
+      "description": "",
+      "title": "心灵猎人 第一季",
+      "url": "https://www.douban.com/doubanapp/dispatch?uri=/movie/26691486/",
+      "price": null,
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2502557574.jpg",
+        "width": 400,
+        "shape": "rectangle",
+        "height": 600
+      },
+      "uri": "douban://douban.com/tv/26691486",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "大卫·芬奇"
+      ],
+      "actors": [
+        "乔纳森·格罗夫",
+        "霍特·麦克卡兰尼",
+        "安娜·托芙"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": {
+        "id": "tv/26691486",
+        "participant_count": 1343,
+        "uri": "douban://douban.com/tv/26691486/forum_topics"
+      },
+      "type": "tv",
+      "id": "26691486"
+    },
+    {
+      "info": "布莱恩·辛格/史蒂芬·莫耶/艾米·阿克/肖恩·蒂尔/动作/科幻/奇幻/2017-10-02(美国)",
+      "original_price": null,
+      "release_date": "10.02",
+      "rating": {
+        "count": 6508,
+        "max": 10,
+        "value": 8.3
+      },
+      "description": "",
+      "title": "天赋异禀",
+      "url": "https://www.douban.com/doubanapp/dispatch?uri=/movie/26908002/",
+      "price": null,
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2493581990.jpg",
+        "width": 627,
+        "shape": "rectangle",
+        "height": 928
+      },
+      "uri": "douban://douban.com/tv/26908002",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "布莱恩·辛格"
+      ],
+      "actors": [
+        "史蒂芬·莫耶",
+        "艾米·阿克",
+        "肖恩·蒂尔"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": {
+        "id": "tv/26908002",
+        "participant_count": 984,
+        "uri": "douban://douban.com/tv/26908002/forum_topics"
+      },
+      "type": "tv",
+      "id": "26908002"
+    },
+    {
+      "info": "特斯塔姆·莎佩罗/安迪·萨姆伯格/斯蒂芬妮·比翠丝/泰瑞·克鲁斯/喜剧/犯罪/2017-09-26(美国)",
+      "original_price": null,
+      "release_date": "09.26",
+      "rating": {
+        "count": 238,
+        "max": 10,
+        "value": 9.3
+      },
+      "description": "",
+      "title": "神烦警探 第五季",
+      "url": "https://www.douban.com/doubanapp/dispatch?uri=/movie/27042749/",
+      "price": null,
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2499857783.jpg",
+        "width": 2025,
+        "shape": "rectangle",
+        "height": 3000
+      },
+      "uri": "douban://douban.com/tv/27042749",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "特斯塔姆·莎佩罗"
+      ],
+      "actors": [
+        "安迪·萨姆伯格",
+        "斯蒂芬妮·比翠丝",
+        "泰瑞·克鲁斯"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": null,
+      "type": "tv",
+      "id": "27042749"
+    },
+    {
+      "info": "马特·达菲/薇诺娜·瑞德/米莉·波比·布朗/大卫·哈伯/剧情/奇幻/恐怖/2017-10-27(美国)",
+      "original_price": null,
+      "release_date": "10.27",
+      "rating": {
+        "count": 6334,
+        "max": 10,
+        "value": 9.1
+      },
+      "description": "",
+      "title": "怪奇物语 第二季",
+      "url": "https://www.douban.com/doubanapp/dispatch?uri=/movie/26844438/",
+      "price": null,
+      "cover": {
+        "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2502864538.jpg",
+        "width": 1500,
+        "shape": "rectangle",
+        "height": 2222
+      },
+      "uri": "douban://douban.com/tv/26844438",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "马特·达菲"
+      ],
+      "actors": [
+        "薇诺娜·瑞德",
+        "米莉·波比·布朗",
+        "大卫·哈伯"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": {
+        "id": "tv/26844438",
+        "participant_count": 976,
+        "uri": "douban://douban.com/tv/26844438/forum_topics"
+      },
+      "type": "tv",
+      "id": "26844438"
+    },
+    {
+      "info": "格里高利·尼克特洛/安德鲁·林肯/诺曼·瑞杜斯/劳伦·科汉/剧情/惊悚/恐怖/2017-10-22(美国)",
+      "original_price": null,
+      "release_date": "10.22",
+      "rating": {
+        "count": 1832,
+        "max": 10,
+        "value": 8.8
+      },
+      "description": "",
+      "title": "行尸走肉 第八季",
+      "url": "https://www.douban.com/doubanapp/dispatch?uri=/movie/26842605/",
+      "price": null,
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2503096822.jpg",
+        "width": 776,
+        "shape": "rectangle",
+        "height": 1200
+      },
+      "uri": "douban://douban.com/tv/26842605",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "格里高利·尼克特洛"
+      ],
+      "actors": [
+        "安德鲁·林肯",
+        "诺曼·瑞杜斯",
+        "劳伦·科汉"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": {
+        "id": "tv/26842605",
+        "participant_count": 573,
+        "uri": "douban://douban.com/tv/26842605/forum_topics"
+      },
+      "type": "tv",
+      "id": "26842605"
+    },
+    {
+      "info": "肯·奥林/斯特林·K·布朗/曼迪·摩尔/克丽丝·梅斯/剧情/喜剧/2017-09-26(美国)",
+      "original_price": null,
+      "release_date": "09.26",
+      "rating": {
+        "count": 6987,
+        "max": 10,
+        "value": 9.6
+      },
+      "description": "",
+      "title": "我们这一天 第二季",
+      "url": "https://www.douban.com/doubanapp/dispatch?uri=/movie/26958597/",
+      "price": null,
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2494940865.jpg",
+        "width": 1024,
+        "shape": "rectangle",
+        "height": 1290
+      },
+      "uri": "douban://douban.com/tv/26958597",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "肯·奥林"
+      ],
+      "actors": [
+        "斯特林·K·布朗",
+        "曼迪·摩尔",
+        "克丽丝·梅斯"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": {
+        "id": "tv/26958597",
+        "participant_count": 1019,
+        "uri": "douban://douban.com/tv/26958597/forum_topics"
+      },
+      "type": "tv",
+      "id": "26958597"
+    },
+    {
+      "info": "贾斯汀·罗兰/贾斯汀·罗兰/克里斯·帕内尔/斯宾瑟·格拉默/科幻/动画/冒险/2017-04-01(首播集)",
+      "original_price": null,
+      "release_date": "04.01",
+      "rating": {
+        "count": 21859,
+        "max": 10,
+        "value": 9.8
+      },
+      "description": "",
+      "title": "瑞克和莫蒂 第三季",
+      "url": "https://www.douban.com/doubanapp/dispatch?uri=/movie/26592971/",
+      "price": null,
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2492804476.jpg",
+        "width": 523,
+        "shape": "rectangle",
+        "height": 800
+      },
+      "uri": "douban://douban.com/tv/26592971",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "贾斯汀·罗兰"
+      ],
+      "actors": [
+        "贾斯汀·罗兰",
+        "克里斯·帕内尔",
+        "斯宾瑟·格拉默"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": {
+        "id": "tv/26592971",
+        "participant_count": 2953,
+        "uri": "douban://douban.com/tv/26592971/forum_topics"
+      },
+      "type": "tv",
+      "id": "26592971"
+    },
+    {
+      "info": "马克·森卓斯基/吉姆·帕森斯/凯莉·库柯/约翰尼·盖尔克奇/喜剧/爱情/2017-09-25(美国)",
+      "original_price": null,
+      "release_date": "09.25",
+      "rating": {
+        "count": 3662,
+        "max": 10,
+        "value": 9.3
+      },
+      "description": "",
+      "title": "生活大爆炸 第十一季",
+      "url": "https://www.douban.com/doubanapp/dispatch?uri=/movie/27000999/",
+      "price": null,
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2499638425.jpg",
+        "width": 666,
+        "shape": "rectangle",
+        "height": 1000
+      },
+      "uri": "douban://douban.com/tv/27000999",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "马克·森卓斯基"
+      ],
+      "actors": [
+        "吉姆·帕森斯",
+        "凯莉·库柯",
+        "约翰尼·盖尔克奇"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": null,
+      "type": "tv",
+      "id": "27000999"
+    },
+    {
+      "info": "瑞德·穆拉诺/伊丽莎白·莫斯/约瑟夫·费因斯/伊冯娜·斯特拉霍夫斯基/剧情/科幻/2017-04-26(美国)",
+      "original_price": null,
+      "release_date": "04.26",
+      "rating": {
+        "count": 17624,
+        "max": 10,
+        "value": 8.8
+      },
+      "description": "",
+      "title": "使女的故事 第一季",
+      "url": "https://www.douban.com/doubanapp/dispatch?uri=/movie/26784967/",
+      "price": null,
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2456865556.jpg",
+        "width": 1350,
+        "shape": "rectangle",
+        "height": 2000
+      },
+      "uri": "douban://douban.com/tv/26784967",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "瑞德·穆拉诺"
+      ],
+      "actors": [
+        "伊丽莎白·莫斯",
+        "约瑟夫·费因斯",
+        "伊冯娜·斯特拉霍夫斯基"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": {
+        "id": "tv/26784967",
+        "participant_count": 1749,
+        "uri": "douban://douban.com/tv/26784967/forum_topics"
+      },
+      "type": "tv",
+      "id": "26784967"
+    },
+    {
+      "info": "詹姆斯·R·巴格多纳斯/艾德·奥尼尔/索菲娅·维加拉/朱丽·鲍温/喜剧/家庭/2017-09-27(美国)",
+      "original_price": null,
+      "release_date": "09.27",
+      "rating": {
+        "count": 2571,
+        "max": 10,
+        "value": 9.6
+      },
+      "description": "",
+      "title": "摩登家庭 第九季",
+      "url": "https://www.douban.com/doubanapp/dispatch?uri=/movie/27041242/",
+      "price": null,
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2499989542.jpg",
+        "width": 1382,
+        "shape": "rectangle",
+        "height": 2048
+      },
+      "uri": "douban://douban.com/tv/27041242",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "詹姆斯·R·巴格多纳斯"
+      ],
+      "actors": [
+        "艾德·奥尼尔",
+        "索菲娅·维加拉",
+        "朱丽·鲍温"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": {
+        "id": "tv/27041242",
+        "participant_count": 241,
+        "uri": "douban://douban.com/tv/27041242/forum_topics"
+      },
+      "type": "tv",
+      "id": "27041242"
+    },
+    {
+      "info": "乔恩·费儒/伊恩·阿米蒂奇/佐伊·派瑞/兰斯·巴伯/喜剧/2017-09-25(美国)",
+      "original_price": null,
+      "release_date": "09.25",
+      "rating": {
+        "count": 3572,
+        "max": 10,
+        "value": 8.4
+      },
+      "description": "",
+      "title": "小谢尔顿",
+      "url": "https://www.douban.com/doubanapp/dispatch?uri=/movie/26910060/",
+      "price": null,
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2500126054.jpg",
+        "width": 666,
+        "shape": "rectangle",
+        "height": 1000
+      },
+      "uri": "douban://douban.com/tv/26910060",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "乔恩·费儒"
+      ],
+      "actors": [
+        "伊恩·阿米蒂奇",
+        "佐伊·派瑞",
+        "兰斯·巴伯"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": null,
+      "type": "tv",
+      "id": "26910060"
+    },
+    {
+      "info": "让-马克·瓦雷/妮可·基德曼/瑞茜·威瑟斯彭/谢琳·伍德蕾/剧情/犯罪/悬疑/2017-02-19(美国)",
+      "original_price": null,
+      "release_date": "02.19",
+      "rating": {
+        "count": 35108,
+        "max": 10,
+        "value": 8.9
+      },
+      "description": "",
+      "title": "大小谎言",
+      "url": "https://www.douban.com/doubanapp/dispatch?uri=/movie/25953429/",
+      "price": null,
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2415240173.jpg",
+        "width": 2700,
+        "shape": "rectangle",
+        "height": 4000
+      },
+      "uri": "douban://douban.com/tv/25953429",
+      "actions": [
+        "可播放"
+      ],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "让-马克·瓦雷"
+      ],
+      "actors": [
+        "妮可·基德曼",
+        "瑞茜·威瑟斯彭",
+        "谢琳·伍德蕾"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": {
+        "id": "tv/25953429",
+        "participant_count": 1743,
+        "uri": "douban://douban.com/tv/25953429/forum_topics"
+      },
+      "type": "tv",
+      "id": "25953429"
+    },
+    {
+      "info": "赛斯·戈登/弗莱迪·海默/尼古拉斯·冈萨雷斯/安东尼娅·托马斯/剧情/2017-09-25(美国)",
+      "original_price": null,
+      "release_date": "09.25",
+      "rating": {
+        "count": 2172,
+        "max": 10,
+        "value": 8.8
+      },
+      "description": "",
+      "title": "良医",
+      "url": "https://www.douban.com/doubanapp/dispatch?uri=/movie/26888731/",
+      "price": null,
+      "cover": {
+        "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2496064819.jpg",
+        "width": 1458,
+        "shape": "rectangle",
+        "height": 2160
+      },
+      "uri": "douban://douban.com/tv/26888731",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "赛斯·戈登"
+      ],
+      "actors": [
+        "弗莱迪·海默",
+        "尼古拉斯·冈萨雷斯",
+        "安东尼娅·托马斯"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": null,
+      "type": "tv",
+      "id": "26888731"
+    },
+    {
+      "info": "杰雷米·波德斯瓦/艾米莉亚·克拉克/基特·哈灵顿/彼特·丁拉基/剧情/奇幻/冒险/2017-07-16(美国)",
+      "original_price": null,
+      "release_date": "07.16",
+      "rating": {
+        "count": 90983,
+        "max": 10,
+        "value": 9.2
+      },
+      "description": "",
+      "title": "权力的游戏 第七季",
+      "url": "https://www.douban.com/doubanapp/dispatch?uri=/movie/26235354/",
+      "price": null,
+      "cover": {
+        "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2462245619.jpg",
+        "width": 2700,
+        "shape": "rectangle",
+        "height": 4000
+      },
+      "uri": "douban://douban.com/tv/26235354",
+      "actions": [
+        "可播放"
+      ],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "杰雷米·波德斯瓦"
+      ],
+      "actors": [
+        "艾米莉亚·克拉克",
+        "基特·哈灵顿",
+        "彼特·丁拉基"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": {
+        "id": "tv/26235354",
+        "participant_count": 19583,
+        "uri": "douban://douban.com/tv/26235354/forum_topics"
+      },
+      "type": "tv",
+      "id": "26235354"
+    },
+    {
+      "info": "詹姆斯·弗兰科/詹姆斯·弗兰科/玛吉·吉伦哈尔/加里·卡尔/剧情/2017-08-25(首播集)",
+      "original_price": null,
+      "release_date": "08.25",
+      "rating": {
+        "count": 2762,
+        "max": 10,
+        "value": 8.5
+      },
+      "description": "",
+      "title": "堕落街传奇 第一季",
+      "url": "https://www.douban.com/doubanapp/dispatch?uri=/movie/26427445/",
+      "price": null,
+      "cover": {
+        "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2497203409.jpg",
+        "width": 800,
+        "shape": "rectangle",
+        "height": 1185
+      },
+      "uri": "douban://douban.com/tv/26427445",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "詹姆斯·弗兰科"
+      ],
+      "actors": [
+        "詹姆斯·弗兰科",
+        "玛吉·吉伦哈尔",
+        "加里·卡尔"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": {
+        "id": "tv/26427445",
+        "participant_count": 455,
+        "uri": "douban://douban.com/tv/26427445/forum_topics"
+      },
+      "type": "tv",
+      "id": "26427445"
+    },
+    {
+      "info": "布拉德利·比克尔/莎拉·保罗森/埃文·彼得斯/夏恩·杰克逊/剧情/惊悚/恐怖/2017-09-05(美国)",
+      "original_price": null,
+      "release_date": "09.05",
+      "rating": {
+        "count": 3413,
+        "max": 10,
+        "value": 7.4
+      },
+      "description": "",
+      "title": "美国恐怖故事：邪教 第七季",
+      "url": "https://www.douban.com/doubanapp/dispatch?uri=/movie/26890593/",
+      "price": null,
+      "cover": {
+        "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2494254959.jpg",
+        "width": 1404,
+        "shape": "rectangle",
+        "height": 2047
+      },
+      "uri": "douban://douban.com/tv/26890593",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "布拉德利·比克尔"
+      ],
+      "actors": [
+        "莎拉·保罗森",
+        "埃文·彼得斯",
+        "夏恩·杰克逊"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": {
+        "id": "tv/26890593",
+        "participant_count": 1150,
+        "uri": "douban://douban.com/tv/26890593/forum_topics"
+      },
+      "type": "tv",
+      "id": "26890593"
+    },
+    {
+      "info": "乔纳森·诺兰/埃文·蕾切尔·伍德/安东尼·霍普金斯/艾德·哈里斯/科幻/西部/2016-10-02(美国)",
+      "original_price": null,
+      "release_date": "10.02",
+      "rating": {
+        "count": 125518,
+        "max": 10,
+        "value": 8.8
+      },
+      "description": "",
+      "title": "西部世界 第一季",
+      "url": "https://www.douban.com/doubanapp/dispatch?uri=/movie/2338055/",
+      "price": null,
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2403347953.jpg",
+        "width": 1418,
+        "shape": "rectangle",
+        "height": 2100
+      },
+      "uri": "douban://douban.com/tv/2338055",
+      "actions": [
+        "可播放"
+      ],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "乔纳森·诺兰"
+      ],
+      "actors": [
+        "埃文·蕾切尔·伍德",
+        "安东尼·霍普金斯",
+        "艾德·哈里斯"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": {
+        "id": "tv/2338055",
+        "participant_count": 6566,
+        "uri": "douban://douban.com/tv/2338055/forum_topics"
+      },
+      "type": "tv",
+      "id": "2338055"
+    },
+    {
+      "info": "安德雷斯·拜斯/佩德罗·帕斯卡/达米安·阿尔卡扎/阿尔维托·阿曼/剧情/传记/犯罪/2017-09-01(美国)",
+      "original_price": null,
+      "release_date": "09.01",
+      "rating": {
+        "count": 9956,
+        "max": 10,
+        "value": 9.5
+      },
+      "description": "",
+      "title": "毒枭 第三季",
+      "url": "https://www.douban.com/doubanapp/dispatch?uri=/movie/26869684/",
+      "price": null,
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2498121123.jpg",
+        "width": 1500,
+        "shape": "rectangle",
+        "height": 2222
+      },
+      "uri": "douban://douban.com/tv/26869684",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "安德雷斯·拜斯"
+      ],
+      "actors": [
+        "佩德罗·帕斯卡",
+        "达米安·阿尔卡扎",
+        "阿尔维托·阿曼"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": {
+        "id": "tv/26869684",
+        "participant_count": 1415,
+        "uri": "douban://douban.com/tv/26869684/forum_topics"
+      },
+      "type": "tv",
+      "id": "26869684"
+    }
+  ],
+  "total": 989,
+  "subject_collection": {
+    "subject_count": 989,
+    "description": "",
+    "url": "https://m.douban.com/app_topic/filter_tv_american_hot",
+    "uri": "douban://douban.com/subject_collection/filter_tv_american_hot",
+    "cover_url": "",
+    "name": "热门",
+    "id": "filter_tv_american_hot",
+    "display": {
+      "layout": "grid"
+    },
+    "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject_collection/filter_tv_american_hot/"
+  }
+}
