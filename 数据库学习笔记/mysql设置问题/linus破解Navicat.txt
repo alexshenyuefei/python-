@@ -1,0 +1,2 @@
+rm -rf /home/python/.navicat64/
+其中，python是把我的计算机主机名

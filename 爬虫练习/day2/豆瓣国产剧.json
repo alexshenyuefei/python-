@@ -1,0 +1,770 @@
+{
+  "count": 18,
+  "start": 0,
+  "subject_collection_items": [
+    {
+      "info": "王伟/潘粤明/王泷正/梁缘/剧情/犯罪/悬疑/2017-08-30(中国大陆)",
+      "original_price": null,
+      "release_date": "08.30",
+      "rating": {
+        "count": 144263,
+        "max": 10,
+        "value": 9
+      },
+      "description": "",
+      "title": "白夜追凶",
+      "url": "https://m.douban.com/movie/subject/26883064/",
+      "price": null,
+      "cover": {
+        "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2483150767.jpg",
+        "width": 1200,
+        "shape": "rectangle",
+        "height": 2134
+      },
+      "uri": "douban://douban.com/tv/26883064",
+      "actions": [
+        "可播放"
+      ],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "王伟"
+      ],
+      "actors": [
+        "潘粤明",
+        "王泷正",
+        "梁缘"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": {
+        "id": "tv/26883064",
+        "participant_count": 34994,
+        "uri": "douban://douban.com/tv/26883064/forum_topics"
+      },
+      "type": "tv",
+      "id": "26883064"
+    },
+    {
+      "info": "吕行/秦昊/邓家佳/姚橹/犯罪/悬疑/2017-09-06(中国大陆)",
+      "original_price": null,
+      "release_date": "09.06",
+      "rating": {
+        "count": 42274,
+        "max": 10,
+        "value": 8.3
+      },
+      "description": "",
+      "title": "无证之罪",
+      "url": "https://m.douban.com/movie/subject/26930540/",
+      "price": null,
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2497732763.jpg",
+        "width": 877,
+        "shape": "rectangle",
+        "height": 1279
+      },
+      "uri": "douban://douban.com/tv/26930540",
+      "actions": [
+        "可播放"
+      ],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "吕行"
+      ],
+      "actors": [
+        "秦昊",
+        "邓家佳",
+        "姚橹"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": {
+        "id": "tv/26930540",
+        "participant_count": 8164,
+        "uri": "douban://douban.com/tv/26930540/forum_topics"
+      },
+      "type": "tv",
+      "id": "26930540"
+    },
+    {
+      "info": "苏万聪/苗侨伟/陈豪/宣萱/剧情/爱情/犯罪/2017-09-18(中国大陆)",
+      "original_price": null,
+      "release_date": "09.18",
+      "rating": {
+        "count": 18265,
+        "max": 10,
+        "value": 7.1
+      },
+      "description": "",
+      "title": "使徒行者2",
+      "url": "https://m.douban.com/movie/subject/26661003/",
+      "price": null,
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2499685822.jpg",
+        "width": 775,
+        "shape": "rectangle",
+        "height": 1162
+      },
+      "uri": "douban://douban.com/tv/26661003",
+      "actions": [
+        "可播放"
+      ],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "苏万聪"
+      ],
+      "actors": [
+        "苗侨伟",
+        "陈豪",
+        "宣萱"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": {
+        "id": "tv/26661003",
+        "participant_count": 4150,
+        "uri": "douban://douban.com/tv/26661003/forum_topics"
+      },
+      "type": "tv",
+      "id": "26661003"
+    },
+    {
+      "info": "刘家成/何冰/郝蕾/李光复/剧情/2015-11-07(中国大陆)",
+      "original_price": null,
+      "release_date": "11.07",
+      "rating": {
+        "count": 4017,
+        "max": 10,
+        "value": 8.5
+      },
+      "description": "",
+      "title": "情满四合院",
+      "url": "https://m.douban.com/movie/subject/26287786/",
+      "price": null,
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2502650282.jpg",
+        "width": 510,
+        "shape": "rectangle",
+        "height": 770
+      },
+      "uri": "douban://douban.com/tv/26287786",
+      "actions": [
+        "可播放"
+      ],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "刘家成"
+      ],
+      "actors": [
+        "何冰",
+        "郝蕾",
+        "李光复"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": {
+        "id": "tv/26287786",
+        "participant_count": 678,
+        "uri": "douban://douban.com/tv/26287786/forum_topics"
+      },
+      "type": "tv",
+      "id": "26287786"
+    },
+    {
+      "info": "丁黑/孙俪/陈晓/何润东/剧情/古装/2017-08-30(中国大陆)",
+      "original_price": null,
+      "release_date": "08.30",
+      "rating": {
+        "count": 49807,
+        "max": 10,
+        "value": 7.3
+      },
+      "description": "",
+      "title": "那年花开月正圆",
+      "url": "https://m.douban.com/movie/subject/26801052/",
+      "price": null,
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2496995622.jpg",
+        "width": 667,
+        "shape": "rectangle",
+        "height": 950
+      },
+      "uri": "douban://douban.com/tv/26801052",
+      "actions": [
+        "可播放"
+      ],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "丁黑"
+      ],
+      "actors": [
+        "孙俪",
+        "陈晓",
+        "何润东"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": {
+        "id": "tv/26801052",
+        "participant_count": 15990,
+        "uri": "douban://douban.com/tv/26801052/forum_topics"
+      },
+      "type": "tv",
+      "id": "26801052"
+    },
+    {
+      "info": "霍耀良/马思纯/盛一伦/丁川/剧情/爱情/古装/2017-10-25(中国大陆)",
+      "original_price": null,
+      "release_date": "10.25",
+      "rating": {
+        "count": 3353,
+        "max": 10,
+        "value": 5.3
+      },
+      "description": "",
+      "title": "将军在上",
+      "url": "https://m.douban.com/movie/subject/26808247/",
+      "price": null,
+      "cover": {
+        "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2502553277.jpg",
+        "width": 714,
+        "shape": "rectangle",
+        "height": 1000
+      },
+      "uri": "douban://douban.com/tv/26808247",
+      "actions": [
+        "可播放"
+      ],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "霍耀良"
+      ],
+      "actors": [
+        "马思纯",
+        "盛一伦",
+        "丁川"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": {
+        "id": "tv/26808247",
+        "participant_count": 378,
+        "uri": "douban://douban.com/tv/26808247/forum_topics"
+      },
+      "type": "tv",
+      "id": "26808247"
+    },
+    {
+      "info": "田里/李现/张铭恩/王紫璇/剧情/悬疑/2017-07-19(中国大陆)",
+      "original_price": null,
+      "release_date": "07.19",
+      "rating": {
+        "count": 69538,
+        "max": 10,
+        "value": 8.3
+      },
+      "description": "",
+      "title": "河神",
+      "url": "https://m.douban.com/movie/subject/26776350/",
+      "price": null,
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2492172704.jpg",
+        "width": 802,
+        "shape": "rectangle",
+        "height": 1200
+      },
+      "uri": "douban://douban.com/tv/26776350",
+      "actions": [
+        "可播放"
+      ],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "田里"
+      ],
+      "actors": [
+        "李现",
+        "张铭恩",
+        "王紫璇"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": {
+        "id": "tv/26776350",
+        "participant_count": 7141,
+        "uri": "douban://douban.com/tv/26776350/forum_topics"
+      },
+      "type": "tv",
+      "id": "26776350"
+    },
+    {
+      "info": "宋本中/陈小春/陈国坤/李灿森/剧情/犯罪/2017-09-22(中国大陆)",
+      "original_price": null,
+      "release_date": "09.22",
+      "rating": {
+        "count": 4910,
+        "max": 10,
+        "value": 6.8
+      },
+      "description": "",
+      "title": "反黑",
+      "url": "https://m.douban.com/movie/subject/26961209/",
+      "price": null,
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2499761703.jpg",
+        "width": 2025,
+        "shape": "rectangle",
+        "height": 3000
+      },
+      "uri": "douban://douban.com/tv/26961209",
+      "actions": [
+        "可播放"
+      ],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "宋本中"
+      ],
+      "actors": [
+        "陈小春",
+        "陈国坤",
+        "李灿森"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": {
+        "id": "tv/26961209",
+        "participant_count": 473,
+        "uri": "douban://douban.com/tv/26961209/forum_topics"
+      },
+      "type": "tv",
+      "id": "26961209"
+    },
+    {
+      "info": "朱锐斌/黄子韬/尹正/赵艺/喜剧/爱情/古装/2017-09-28(中国大陆)",
+      "original_price": null,
+      "release_date": "09.28",
+      "rating": {
+        "count": 6941,
+        "max": 10,
+        "value": 3.4
+      },
+      "description": "",
+      "title": "大话西游之爱你一万年",
+      "url": "https://m.douban.com/movie/subject/26743549/",
+      "price": null,
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2500309240.jpg",
+        "width": 5906,
+        "shape": "rectangle",
+        "height": 9055
+      },
+      "uri": "douban://douban.com/tv/26743549",
+      "actions": [
+        "可播放"
+      ],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "朱锐斌"
+      ],
+      "actors": [
+        "黄子韬",
+        "尹正",
+        "赵艺"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": {
+        "id": "tv/26743549",
+        "participant_count": 684,
+        "uri": "douban://douban.com/tv/26743549/forum_topics"
+      },
+      "type": "tv",
+      "id": "26743549"
+    },
+    {
+      "info": "夏晓昀/郑恺/袁姗姗/朱孝天/剧情/喜剧/爱情/2017-10-09(中国大陆)",
+      "original_price": null,
+      "release_date": "10.09",
+      "rating": {
+        "count": 2442,
+        "max": 10,
+        "value": 6.1
+      },
+      "description": "",
+      "title": "国民大生活",
+      "url": "https://m.douban.com/movie/subject/26861630/",
+      "price": null,
+      "cover": {
+        "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2499686169.jpg",
+        "width": 950,
+        "shape": "rectangle",
+        "height": 1393
+      },
+      "uri": "douban://douban.com/tv/26861630",
+      "actions": [
+        "可播放"
+      ],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "夏晓昀"
+      ],
+      "actors": [
+        "郑恺",
+        "袁姗姗",
+        "朱孝天"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": {
+        "id": "tv/26861630",
+        "participant_count": 243,
+        "uri": "douban://douban.com/tv/26861630/forum_topics"
+      },
+      "type": "tv",
+      "id": "26861630"
+    },
+    {
+      "info": "张睿/张一山/吴优/常戎/剧情/犯罪/悬疑/2016-05-23(中国大陆)",
+      "original_price": null,
+      "release_date": "05.23",
+      "rating": {
+        "count": 74534,
+        "max": 10,
+        "value": 8.2
+      },
+      "description": "",
+      "title": "余罪 第一季",
+      "url": "https://m.douban.com/movie/subject/26363830/",
+      "price": null,
+      "cover": {
+        "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2359172677.jpg",
+        "width": 2133,
+        "shape": "rectangle",
+        "height": 3200
+      },
+      "uri": "douban://douban.com/tv/26363830",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "张睿"
+      ],
+      "actors": [
+        "张一山",
+        "吴优",
+        "常戎"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": {
+        "id": "tv/26363830",
+        "participant_count": 800,
+        "uri": "douban://douban.com/tv/26363830/forum_topics"
+      },
+      "type": "tv",
+      "id": "26363830"
+    },
+    {
+      "info": "张永新/吴秀波/刘涛/李晨/剧情/爱情/战争/2017-06-22(中国大陆)",
+      "original_price": null,
+      "release_date": "06.22",
+      "rating": {
+        "count": 55369,
+        "max": 10,
+        "value": 8.1
+      },
+      "description": "",
+      "title": "大军师司马懿之军师联盟",
+      "url": "https://m.douban.com/movie/subject/26605881/",
+      "price": null,
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2468698085.jpg",
+        "width": 806,
+        "shape": "rectangle",
+        "height": 1200
+      },
+      "uri": "douban://douban.com/tv/26605881",
+      "actions": [
+        "可播放"
+      ],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "张永新"
+      ],
+      "actors": [
+        "吴秀波",
+        "刘涛",
+        "李晨"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": {
+        "id": "tv/26605881",
+        "participant_count": 3056,
+        "uri": "douban://douban.com/tv/26605881/forum_topics"
+      },
+      "type": "tv",
+      "id": "26605881"
+    },
+    {
+      "info": "张黎/陈宝国/黄志忠/倪大红/剧情/历史/2007-01-08(中国大陆)",
+      "original_price": null,
+      "release_date": "01.08",
+      "rating": {
+        "count": 33409,
+        "max": 10,
+        "value": 9.6
+      },
+      "description": "",
+      "title": "大明王朝1566",
+      "url": "https://m.douban.com/movie/subject/2210001/",
+      "price": null,
+      "cover": {
+        "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2444453078.jpg",
+        "width": 500,
+        "shape": "rectangle",
+        "height": 700
+      },
+      "uri": "douban://douban.com/tv/2210001",
+      "actions": [
+        "可播放"
+      ],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "张黎"
+      ],
+      "actors": [
+        "陈宝国",
+        "黄志忠",
+        "倪大红"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": null,
+      "type": "tv",
+      "id": "2210001"
+    },
+    {
+      "info": "尚敬/闫妮/姚晨/沙溢/喜剧/武侠/古装/2006-01-02(中国大陆)",
+      "original_price": null,
+      "release_date": "01.02",
+      "rating": {
+        "count": 116209,
+        "max": 10,
+        "value": 9.3
+      },
+      "description": "",
+      "title": "武林外传",
+      "url": "https://m.douban.com/movie/subject/3882715/",
+      "price": null,
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p1334122023.jpg",
+        "width": 500,
+        "shape": "rectangle",
+        "height": 618
+      },
+      "uri": "douban://douban.com/tv/3882715",
+      "actions": [
+        "可播放"
+      ],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "尚敬"
+      ],
+      "actors": [
+        "闫妮",
+        "姚晨",
+        "沙溢"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": null,
+      "type": "tv",
+      "id": "3882715"
+    },
+    {
+      "info": "王扶林/欧阳奋强/陈晓旭/邓婕/剧情/爱情/古装/1987-05-02(中国大陆)",
+      "original_price": null,
+      "release_date": "05.02",
+      "rating": {
+        "count": 61611,
+        "max": 10,
+        "value": 9.5
+      },
+      "description": "",
+      "title": "红楼梦",
+      "url": "https://m.douban.com/movie/subject/1864810/",
+      "price": null,
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p1334142732.jpg",
+        "width": 470,
+        "shape": "rectangle",
+        "height": 658
+      },
+      "uri": "douban://douban.com/tv/1864810",
+      "actions": [
+        "可播放"
+      ],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "王扶林"
+      ],
+      "actors": [
+        "欧阳奋强",
+        "陈晓旭",
+        "邓婕"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": null,
+      "type": "tv",
+      "id": "1864810"
+    },
+    {
+      "info": "李洪绸/杨羽/邵庄/安宁/犯罪/悬疑/2015-09-10(中国大陆)",
+      "original_price": null,
+      "release_date": "09.10",
+      "rating": {
+        "count": 16641,
+        "max": 10,
+        "value": 9.6
+      },
+      "description": "",
+      "title": "毛骗 终结篇",
+      "url": "https://m.douban.com/movie/subject/26603847/",
+      "price": null,
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2480805230.jpg",
+        "width": 475,
+        "shape": "rectangle",
+        "height": 800
+      },
+      "uri": "douban://douban.com/tv/26603847",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "李洪绸"
+      ],
+      "actors": [
+        "杨羽",
+        "邵庄",
+        "安宁"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": {
+        "id": "tv/26603847",
+        "participant_count": 587,
+        "uri": "douban://douban.com/tv/26603847/forum_topics"
+      },
+      "type": "tv",
+      "id": "26603847"
+    },
+    {
+      "info": "刘进/张嘉译/秦海璐/何冰/剧情/历史/2017-04-16(中国大陆)",
+      "original_price": null,
+      "release_date": "04.16",
+      "rating": {
+        "count": 47245,
+        "max": 10,
+        "value": 8.8
+      },
+      "description": "",
+      "title": "白鹿原",
+      "url": "https://m.douban.com/movie/subject/26322644/",
+      "price": null,
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2458656244.jpg",
+        "width": 600,
+        "shape": "rectangle",
+        "height": 800
+      },
+      "uri": "douban://douban.com/tv/26322644",
+      "actions": [
+        "可播放"
+      ],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "刘进"
+      ],
+      "actors": [
+        "张嘉译",
+        "秦海璐",
+        "何冰"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": null,
+      "type": "tv",
+      "id": "26322644"
+    },
+    {
+      "info": "郑伟文/王丽坤/郑元畅/丁子峻/科幻/奇幻/2017-10-04(中国大陆)",
+      "original_price": null,
+      "release_date": "10.04",
+      "rating": {
+        "count": 1318,
+        "max": 10,
+        "value": 5.1
+      },
+      "description": "",
+      "title": "天泪传奇之凤凰无双",
+      "url": "https://m.douban.com/movie/subject/26732417/",
+      "price": null,
+      "cover": {
+        "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2500736318.jpg",
+        "width": 2048,
+        "shape": "rectangle",
+        "height": 3640
+      },
+      "uri": "douban://douban.com/tv/26732417",
+      "actions": [
+        "可播放"
+      ],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "郑伟文"
+      ],
+      "actors": [
+        "王丽坤",
+        "郑元畅",
+        "丁子峻"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "forum_info": null,
+      "type": "tv",
+      "id": "26732417"
+    }
+  ],
+  "total": 2159,
+  "subject_collection": {
+    "subject_count": 2159,
+    "description": "",
+    "url": "https://m.douban.com/app_topic/filter_tv_domestic_hot",
+    "uri": "douban://douban.com/subject_collection/filter_tv_domestic_hot",
+    "cover_url": "",
+    "name": "热门",
+    "id": "filter_tv_domestic_hot",
+    "display": {
+      "layout": "grid"
+    },
+    "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject_collection/filter_tv_domestic_hot/"
+  }
+}
